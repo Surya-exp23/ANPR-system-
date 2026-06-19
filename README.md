@@ -1,9 +1,8 @@
 # 🚗 License Plate Detection System
 
-A real-time Indian license plate detection and recognition system using YOLOv8 and EasyOCR.
+A Indian license plate detection and recognition system using YOLOv8 and EasyOCR.
 
 ## Features
-- **📷 Live Webcam** – Detect plates in real-time from your webcam
 - **🎬 Video Upload** – Process a video file and extract all license plates
 - **🖼️ Photo Upload** – Detect plates from a single image
 
