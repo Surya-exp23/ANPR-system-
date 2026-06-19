@@ -18,7 +18,7 @@ All detected plates are saved to `detected_plates.csv` with serial numbers.
 
 ### Step 1: Clone or Download the Project
 ```bash
-git clone <https://github.com/Surya-exp23/ANPR-system-.git>
+git clone https://github.com/Surya-exp23/ANPR-system-.git
 cd project-intern
 ```
 
