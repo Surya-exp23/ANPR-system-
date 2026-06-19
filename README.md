@@ -15,11 +15,10 @@ All detected plates are saved to `detected_plates.csv` with serial numbers.
 
 ### Prerequisites
 - Python 3.10 or higher
-- A webcam (for live mode)
 
 ### Step 1: Clone or Download the Project
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Surya-exp23/ANPR-system-.git>
 cd project-intern
 ```
 
@@ -71,6 +70,3 @@ pip uninstall opencv-python-headless
 pip install opencv-python
 ```
 
-**Webcam not detected**
-- Make sure no other app is using the webcam
-- Try changing `cv2.VideoCapture(0)` to `cv2.VideoCapture(1)` in `main.py`
